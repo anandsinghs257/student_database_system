@@ -1,0 +1,41 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+faculty1:
+  first_name: Anand
+  last_name: Kumar
+  email: anand@gmail.com
+  dob: 10/10/1993
+  phone_no: 123456
+  address: vijaynagar
+  gender: Male
+  course: course1
+
+faculty2:
+  first_name: MyString
+  last_name: MyString
+  email: MyString
+  dob: MyString
+  phone_no: MyString
+  address: MyString
+  gender: MyString
+  course: course2
+
+faculty3:
+  first_name: MyString
+  last_name: MyString
+  email: MyString
+  dob: MyString
+  phone_no: MyString
+  address: MyString
+  gender: MyString
+  course: course3
+
+faculty4:
+  first_name: MyString
+  last_name: MyString
+  email: MyString
+  dob: MyString
+  phone_no: MyString
+  address: MyString
+  gender: MyString
+  course: course4

@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+course1:
+  name: English
+  description: English is a West Germanic language of the Indo-European language family.
+
+course2:
+  name: Physics
+  description: Physics is the branch of science that deals with the structure of matter and how the fundamental constituents of the universe interact. It studies objects ranging from the very small using quantum mechanics to the entire universe using general relativity.
+
+course3: 
+  name: Computer science
+  description: Computer Science is the study of computers and computational systems. Unlike electrical and computer engineers, computer scientists deal mostly with software and software systems; this includes their theory, design, development, and application
+
+course4:   
+  name: Maths 
+  description: Archimedes is known as the Father Of Mathematics. He lived between 287 BC – 212 BC. Syracuse, the Greek island of Sicily was his birthplace. Archimedes was serving the King Hiero II of Syracuse by solving mathematical problems and by developing interesting innovations for the king and his army.

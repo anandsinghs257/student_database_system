@@ -1,0 +1,37 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+student1:
+  first_name: Bob
+  last_name: john
+  email: bob@gmail.com
+  dob: 10/10/1996
+  phone_no: +91123456
+  address: Indore
+  gender: Male
+
+student2:
+  first_name: John
+  last_name: doe
+  email: doe@gmail.com
+  dob: 10/12/1978
+  phone_no: +91987567
+  address: Delhi
+  gender: Male
+
+student3:
+  first_name: Roman
+  last_name: hood
+  email: roman@gmail.com
+  dob: 11/09/2001
+  phone_no: +9198756732
+  address: Mumbai
+  gender: Male
+
+student4:
+  first_name: Victoria
+  last_name: jen
+  email: victoria@gmail.com
+  dob: 15/02/1990
+  phone_no: +91987567323
+  address: England
+  gender: Female

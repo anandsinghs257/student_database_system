@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+result1:
+  pecentage: 90
+  grade: A
+  course: course1
+
+result2:
+  pecentage: 80
+  grade: B
+  course: course2
+
+result3:
+  pecentage: 85
+  grade: C+
+  course: course3
+
+result4:
+  pecentage: 70
+  grade: C
+  course: course4  
